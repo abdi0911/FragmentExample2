@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_descriptions">
+        <item>
+            "How to use Android Studio 3, which also teaches you the basics of Android programming. If you're a beginner in Java, that's covered too."
+        </item>
+        <item>
+            "This book focuses on how to use Android Studio as well. Like the first one, it covers the basics of the IDE and Android programming, but this time you'll use Kotlin, the newest language in the JVM ecosystem."
+        </item>
+        <item>
+            "Minimum Android Programming is the book that got me started. It was written in an era before Eclipse ADT existed, so you'll be using the Android SDK with all the glory of CLI tools."
+        </item>
+    </string-array>
+</resources>
